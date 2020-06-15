@@ -10,6 +10,6 @@ public class MainLogin {
     }
 
     public void metodo2(){
-        
+
     }
 }
