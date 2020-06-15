@@ -8,4 +8,8 @@ public class MainLogin {
     {
         return is;
     }
+
+    public void metodo2(){
+        
+    }
 }
