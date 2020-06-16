@@ -1,4 +1,4 @@
-package com.haha.login_lib;
+package com.haha.libreria;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.haha.login_lib.test", appContext.getPackageName());
+        assertEquals("com.haha.libreria.test", appContext.getPackageName());
     }
 }

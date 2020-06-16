@@ -1,4 +1,4 @@
-package com.haha.login_lib;
+package com.haha.libreria;
 
 import org.junit.Test;
 
