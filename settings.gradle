@@ -1,2 +1,2 @@
-include ':app', ':libreria'
+include ':app', ':libreria', ':sqlitedb'
 rootProject.name='Haha_libs'
